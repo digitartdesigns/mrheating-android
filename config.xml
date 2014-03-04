@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "com.mrheating.mrheating"
         version = "3">
-    <name>Moore & Russell Heating</name>
+    <name>Moore &amp; Russell Heating</name>
     <description>
         Web App by Digit Art Designs
     </description>
